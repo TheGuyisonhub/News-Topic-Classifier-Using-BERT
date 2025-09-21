@@ -26,5 +26,3 @@ The objective of this project is to build a text classification model that can a
 * On the **full dataset**, accuracy can reach **93–95%**, aligning with state-of-the-art results for AG News classification using BERT.
 * Using pre-trained transformers significantly reduces training time while achieving high accuracy compared to training models from scratch.
 * The modular pipeline allows easy scaling, further fine-tuning, or deployment with a simple interface (e.g., Gradio demo).
-
-Do you want me to also make a **requirements.txt** for this project so it’s production-ready?
